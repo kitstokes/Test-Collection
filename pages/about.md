@@ -6,6 +6,8 @@ permalink: /about/
 
 # About {{ site.title }}
 
+New content new content I'm making new content
+
 This site is generated using `pages-collection`, a project to generate a free and simple digital collection using [gh-pages](https://pages.github.com/) from:
 
 - a CSV of collection metadata
